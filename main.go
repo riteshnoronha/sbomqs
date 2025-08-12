@@ -18,7 +18,5 @@ import "github.com/interlynk-io/sbomqs/cmd"
 
 func main() {
 
-
-
 	cmd.Execute()
 }
