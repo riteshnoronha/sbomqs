@@ -220,9 +220,3 @@ We appreciate all feedback. The best ways to get in touch with us:
 - 📬 [Email Us](mailto:hello@interlynk.io)
 - 🐛 [Report a bug or enhancement](https://github.com/interlynk-io/sbomex/issues)
 - 🐦 [Follow us on X](https://twitter.com/InterlynkIo)
-
-## Stargazers
-
-If you like this project, please support us by starring it.
-
-[![Stargazers](https://starchart.cc/interlynk-io/sbomqs.svg)](https://starchart.cc/interlynk-io/sbomqs)
