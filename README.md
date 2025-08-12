@@ -1,5 +1,4 @@
 
-# `sbomqs`: Quality metrics for SBOMs
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/interlynk-io/sbomqs.svg)](https://pkg.go.dev/github.com/interlynk-io/sbomqs)
 [![Go Report Card](https://goreportcard.com/badge/github.com/interlynk-io/sbomqs)](https://goreportcard.com/report/github.com/interlynk-io/sbomqs)
@@ -15,10 +14,6 @@
 
 Our SBOM Automation Platform has a free community tier that provides a comprehensive solution to manage SBOMs (Software Bill of Materials) effortlessly with following features:
 
-- centralized SBOM storage,
-- built-in SBOM editor,
-- continuous vulnerability mapping and assessment, and
-- support for organizational policies, all while ensuring compliance and enhancing software supply chain security using integrated SBOM quality scores.
 
 The **community tier is ideal for small teams**. Learn more about [free community tier](https://www.interlynk.io/community-tier) or directly [Sign up](https://app.interlynk.io/auth).
 
